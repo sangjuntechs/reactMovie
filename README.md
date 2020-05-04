@@ -13,6 +13,11 @@ react는 컴포넌트에서 html소스를 바로 삽입하여 html로 밀어넣�
 app.js에 array형식으로 컴포넌트를 가져와 사용해봄.
 컴포넌트의 작동 방식에 대한 이해.
 
+컴포넌트는 각각에 대한 key value 즉, 각 다른 개체로 존재해야 한다.
+
+PropType에 대한 이해.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
