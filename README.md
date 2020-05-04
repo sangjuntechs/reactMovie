@@ -1,8 +1,14 @@
 # ReactWeb Project
+
 리액트를 이용한 프로젝트.
 2020/05/04 시작.
+### 2020/05/04
 
 리액트 작동 원리를 파악하기 위해 src의 css와 로고 등을 삭제하고 index.js에 div를 삽입.
+
+react는 컴포넌트에서 html소스를 바로 삽입하여 html로 밀어넣는 버츄얼 방식이다.
+
+컴포넌트의 사용법과 jsx에 대한 이해.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
