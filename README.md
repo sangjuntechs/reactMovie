@@ -2,6 +2,8 @@
 리액트를 이용한 프로젝트.
 2020/05/04 시작.
 
+리액트 작동 원리를 파악하기 위해 src의 css와 로고 등을 삭제하고 index.js에 div를 삽입.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
