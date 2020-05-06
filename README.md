@@ -24,6 +24,13 @@ state에 대한 이해 state는 '동적인 정보'를 사용할
 'render' method를 통해 그 것을 호출
 state는 그대로 직접적으로 사용하 지 않고 setState를 통해 state안의 정보를 호출한다.
 
+mount update unmount
+axious의 사용 : npm에서 다운로드 해야함.
+
+async await 비동기에 대한 이해
+
+movie.js 오류 찾아야함 오후 06:03
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
