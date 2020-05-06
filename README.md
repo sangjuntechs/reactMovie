@@ -31,6 +31,9 @@ async await 비동기에 대한 이해
 
 movie.js 오류 찾아야함 오후 06:03
 
+movie.js 8줄에 Movie.proptypes 에서 Proptypes의 오타가 존재했음.
+같은 실수를 했었으므로 주의 필요. fix bug compelete
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
