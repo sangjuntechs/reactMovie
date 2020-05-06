@@ -2,7 +2,7 @@
 
 리액트를 이용한 프로젝트.
 2020/05/04 시작.
-### 2020/05/04
+### `2020/05/04`
 
 리액트 작동 원리를 파악하기 위해 src의 css와 로고 등을 삭제하고 index.js에 div를 삽입.
 
@@ -16,6 +16,13 @@ app.js에 array형식으로 컴포넌트를 가져와 사용해봄.
 컴포넌트는 각각에 대한 key value 즉, 각 다른 개체로 존재해야 한다.
 
 PropType에 대한 이해.
+
+## `2020/05/06`
+
+state에 대한 이해 state는 '동적인 정보'를 사용할
+때 효과적 즉 변하는 정보를 사용
+'render' method를 통해 그 것을 호출
+state는 그대로 직접적으로 사용하 지 않고 setState를 통해 state안의 정보를 호출한다.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
