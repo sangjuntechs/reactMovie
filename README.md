@@ -34,6 +34,10 @@ movie.js 오류 찾아야함 오후 06:03
 movie.js 8줄에 Movie.proptypes 에서 Proptypes의 오타가 존재했음.
 같은 실수를 했었으므로 주의 필요. fix bug compelete
 
+## `2020/05/07`
+
+API로 받아온 영화정보 정렬 array형식의 genres li에 정렬 및 html정리 작업
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
