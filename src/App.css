@@ -1,0 +1,58 @@
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    } from {
+        opacity: 1;
+    }
+}
+@keyframes fadeIn{
+    to {
+        opacity: 1;
+    } from {
+        opacity: 0;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: honeydew;
+}
+
+html,
+body,
+.container {
+    height: 100%;
+}
+
+
+
+.loader {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fadeOut 1.7s linear;
+    font-size: 50px;
+}
+
+.movies {
+   display: flex;
+   align-content: space-between;
+   max-width: 1500px;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+}
+
+.movies .movie_movies {
+    display: flex;
+}
+
+
+

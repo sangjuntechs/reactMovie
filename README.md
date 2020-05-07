@@ -1,6 +1,6 @@
 # ReactWeb Project
 
-리액트를 이용한 프로젝트.
+리액트를 이용한 프로젝트. API로 영화 정보를 받아와 표시해 주는 웹 사이트
 2020/05/04 시작.
 ### `2020/05/04`
 
@@ -37,6 +37,8 @@ movie.js 8줄에 Movie.proptypes 에서 Proptypes의 오타가 존재했음.
 ## `2020/05/07`
 
 API로 받아온 영화정보 정렬 array형식의 genres li에 정렬 및 html정리 작업
+전반적인 css 수정 및 html 정리
+### `프로젝트 종료`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
