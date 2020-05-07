@@ -19,26 +19,25 @@
 body {
     margin: 0;
     padding: 0;
-    height: 100%;
     background-color: honeydew;
 }
 
-html,
-body,
+
 .container {
-    height: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 
 
 .loader {
-    width: 100%;
-    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     animation: fadeOut 1.7s linear;
     font-size: 50px;
+    margin: 300px;
+    font-weight: 700;
 }
 
 .movies {
@@ -53,6 +52,8 @@ body,
 .movies .movie_movies {
     display: flex;
 }
+
+
 
 
 
