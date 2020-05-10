@@ -40,8 +40,9 @@ API로 받아온 영화정보 정렬 array형식의 genres li에 정렬 및 html
 전반적인 css 수정 및 html 정리
 ### `프로젝트 종료`
 
-## `++ version`
+## `++ version 2020/05/10`
 Router nav를 만들기 위한 컴포넌트 재정리.
+router에 대한 이해 exact의 이해 hash router.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
