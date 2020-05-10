@@ -1,0 +1,25 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.home_btn, .about_btn {
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    margin-right: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: 2px 4px 7px darkgray;
+    color: black;
+}
+

@@ -1,0 +1,21 @@
+html {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about_content {
+    font-size: 30px;
+    margin-top: 200px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 2px 4px 8px darkgrey;
+    border-radius: 20px;
+    background-color: white;
+}

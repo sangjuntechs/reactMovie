@@ -44,6 +44,9 @@ API로 받아온 영화정보 정렬 array형식의 genres li에 정렬 및 html
 Router nav를 만들기 위한 컴포넌트 재정리.
 router에 대한 이해 exact의 이해 hash router.
 
+router를 이용한 navigation 만들기 react-router-dom의 navigation기능 활용
+및 link로 리액트를 리프레시 하지 않고 해쉬로 넘기는 방법 습득
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

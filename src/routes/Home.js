@@ -7,6 +7,7 @@ import "./Home.css";
 class Home extends React.Component {
   state = {
     isLoading : true,
+    
     movies : []
   };
   getMoives = async() => {
