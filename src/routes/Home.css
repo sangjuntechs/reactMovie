@@ -24,6 +24,7 @@ body {
 
 
 .container {
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -35,15 +36,14 @@ body {
     justify-content: center;
     align-items: center;
     animation: fadeOut 1.7s linear;
-    font-size: 50px;
-    margin: 300px;
+    font-size: 30px;
     font-weight: 700;
+    position: relative;
 }
 
 .movies {
    display: flex;
    align-content: space-between;
-   max-width: 1500px;
    flex-wrap: wrap;
    align-items: center;
    justify-content: center;
