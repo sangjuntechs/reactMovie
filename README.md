@@ -47,6 +47,10 @@ router에 대한 이해 exact의 이해 hash router.
 router를 이용한 navigation 만들기 react-router-dom의 navigation기능 활용
 및 link로 리액트를 리프레시 하지 않고 해쉬로 넘기는 방법 습득
 
+## `2020/05/11`
+
+Router을 통해 영화를 클릭시 detail로 넘어가는 링크 생성 및 detail페이지 생성
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
