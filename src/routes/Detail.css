@@ -5,31 +5,32 @@ body {
     align-items: center;
 }
 .movie_detail{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
     margin: 100px;
     padding: 100px;
     border-radius: 30px;
     background-color: white;
     box-shadow: 2px 4px 8px darkgray;
+    text-align: center;
     
 }
 
 
 
 .details {
-    display: flex;
+    display: block;
     flex-wrap: wrap;
-    width: 450px;
+    width: 600px;
     justify-content: center;
     align-items: center;
     padding: 20px;
 }
 
 .imgs {
-    display: block;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 4px 6px darkgray;
 }
 
 
