@@ -51,6 +51,13 @@ router를 이용한 navigation 만들기 react-router-dom의 navigation기능 �
 
 Router을 통해 영화를 클릭시 detail로 넘어가는 링크 생성 및 detail페이지 생성
 
+## `2020/05/12`
+
+영화 디테일 페이지 생성 path를 id로 바꾸었다.
+location의 state props를 가져와 디테일 페이지에 필요한 정보를 가져왔다.
+
+** 프로젝트 종료 **
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

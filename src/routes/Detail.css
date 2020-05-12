@@ -1,0 +1,35 @@
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.movie_detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 2px 4px 8px darkgray;
+    
+}
+
+
+
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.imgs {
+    display: block;
+    border-radius: 10px;
+}
+
+
